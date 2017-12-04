@@ -19,6 +19,6 @@ echo "interfaces that OpenVZ uses to provide Internet / Network access. "
 echo " "
 echo " "
 echo ""
-echo "Now we need another reeboot to finish the setup."
+echo "Now we need another reboot to finish the setup."
 read -p "Press Enter to Reboot, or CTRL-C to abort."
 reboot
